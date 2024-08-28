@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ayaan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **MySQL,MongoDB**
+- 🌱 I’m currently learning **C++**
 
 - 📝 I regularly write articles on [ayaanovationtech.blogspot.com](ayaanovationtech.blogspot.com)
 
-- 💬 Ask me about **Frontend Web Development, Java, C**
+- 💬 Ask me about **C++**
 
 - 📫 How to reach me **dcayaand@gmail.com**
 

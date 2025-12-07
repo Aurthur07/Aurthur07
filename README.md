@@ -2,8 +2,8 @@
   <a href="#">
     <img width="30%" height="auto" src="https://github.com/Aurthur07/Aurthur07/blob/main/Untitled design.gif" height="175px"/>
   </a><br><br><br>
-  <h1 align="center">Hey <img src="https://github.com/Aurthur07/Aurthur07/blob/main/star.gif" width="30px" height="30px" />, Ayaan here!<br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=AI+%26+Data+Science+Engineer;SIH+2024+National+Finalist;Student+of+SIES+GST+AI%26DS+2022-26" alt="Typing SVG" /></a>
+  <h1 align="center">Hey <img src="https://github.com/Aurthur07/Aurthur07/blob/main/star.gif" width="30px" height="30px" />, Aurthur here!<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=AI+%26+Data+Science+Engineer" alt="Typing SVG" /></a>
 </h1>
 
 ![](https://raw.githubusercontent.com/Aurthur07/github-stats/master/generated/overview.svg#gh-dark-mode-only)
@@ -15,11 +15,11 @@
 class Developer:
 
     def __init__(self):
-        self.name = "Ayaan Dwivedi"
+        self.name = "Arthur"
         self.alias = "Aurthur"
 	self.upskilling = ["AWS", "Machine Learning", "CI/CD", "Data Analytics"]
 	self.qualities = ["Problem Solver", "Quick Learner", "Tech Enthusiast", "Team Player"]
-        self.language_spoken = ("en_IN", "hi_IN")
+        self.language_spoken = ("en_IN")
 
     def say_hi(self):
         print("Thanks for dropping by! Hope my projects spark your interest! 👋")
@@ -35,7 +35,7 @@ me.say_hi()
 	
 ### Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayaan-dwivedi)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dcayaand@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeusisamaniac.com)
 
 ### Coding Sites:
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ayaandwivedi)
